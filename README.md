@@ -1,11 +1,11 @@
 
-# HR Data Analysis Project 📊
+# HR Data Analysis Project 
 
 This project demonstrates how to analyze employee data using MySQL and Excel. The goal is to simulate a realistic HR dataset, write queries for key HR metrics, and create a professional dashboard for visualization.
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - `Employees.xlsx` — dataset exported from MySQL and formatted in Excel
 - `hr_data_project.sql` — SQL script: table creation, data insertion, and HR analytics queries
@@ -14,7 +14,7 @@ This project demonstrates how to analyze employee data using MySQL and Excel. Th
 
 ---
 
-## ✅ Project Objectives
+##  Project Objectives
 
 - Practice creating and querying an employee table in SQL
 - Calculate common HR metrics (turnover, active employees, avg salary, etc.)
@@ -23,7 +23,7 @@ This project demonstrates how to analyze employee data using MySQL and Excel. Th
 
 ---
 
-## 🧾 Dashboard Overview
+##  Dashboard Overview
 
 **KPI Block:**
 - Total Employees: 15
@@ -38,11 +38,10 @@ This project demonstrates how to analyze employee data using MySQL and Excel. Th
 - Bar Chart: Average Salary by Department
 - Doughnut Chart: Employee Status Distribution
 
-![HR Dashboard](hr_dashboard.png)
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **MySQL Workbench** — for database operations
 - **Excel** — for pivot tables and dashboard
@@ -50,7 +49,7 @@ This project demonstrates how to analyze employee data using MySQL and Excel. Th
 
 ---
 
-## 🔍 Example SQL Queries
+## Example SQL Queries
 
 ```sql
 -- Count employees by department
@@ -75,6 +74,6 @@ FROM Employees;
 
 ---
 
-## 📌 Author
+##  Author
 
 Created by a self-learning database enthusiast as part of a data analyst training journey.
