@@ -72,8 +72,4 @@ SELECT
 FROM Employees;
 ```
 
----
 
-##  Author
-
-Created by a self-learning database enthusiast as part of a data analyst training journey.
