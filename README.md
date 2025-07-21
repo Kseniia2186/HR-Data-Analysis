@@ -1,4 +1,4 @@
- 🧑‍💼 HR Data Analysis
+# 📊 HR Data Analysis Dashboard Project
 
 This project explores employee data using MySQL and Excel.  
 It simulates a small HR system and provides insights into staffing, salary, and department-level metrics.  
@@ -29,6 +29,12 @@ The final dashboard includes KPIs and charts to visualize key HR indicators.
 - `HR_employees_data.xlsx` — Excel file with HR data, pivot tables, and charts  
 - `HR_dashboard.png` — Final dashboard (KPI + charts preview)  
 - `README.md` — This file
+
+---
+
+## 🖼️ Dashboard Preview
+
+![HR Dashboard](HR_dashboard.png)
 
 ---
 
@@ -87,3 +93,4 @@ FROM Employees;
 
 This project helped me understand HR analytics in practice.  
 I learned how to query employee databases, calculate key indicators like turnover and salary averages, and visualize the results in a professional dashboard.
+
